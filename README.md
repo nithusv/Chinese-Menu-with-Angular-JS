@@ -1,2 +1,3 @@
-# module3_solution
-Solution for Module3 Assignment
+This is a Coursera Assignment 
+Single Page Web Applications with Angular JS
+Assignment 3
